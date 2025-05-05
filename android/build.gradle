@@ -27,7 +27,7 @@ apply plugin: "kotlin-android"
 android {
     namespace = "flutter.plugins.contactsservice.contacts_service"
 
-    compileSdk = 35
+    compileSdk = 34
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
